@@ -63,6 +63,7 @@ export const ProductCard = ({
           increaseBy,
           reset,
         })}
+        <>hola</>
       </div>
     </Provider>
   );

@@ -9,6 +9,7 @@ exports[`ProductTitle debe mostarr el componente cone el nombre del producto 1`]
   >
     Coffee Mug - Sin Imagen
   </span>
+  hola
 </div>
 `;
 

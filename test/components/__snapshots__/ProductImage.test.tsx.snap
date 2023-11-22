@@ -9,6 +9,7 @@ exports[`ProductImage debe mostarr el componente con la imagen del producto 1`] 
     className="productImg undefined"
     src="./coffee-mug.png"
   />
+  hola
 </div>
 `;
 
